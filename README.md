@@ -11,9 +11,6 @@ Um sistema web completo para gerenciamento de minimercados, com carrossel de pro
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como Executar](#-como-executar)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Capturas de Tela](#-capturas-de-tela)
-- [Licença](#-licença)
-- [Contato](#-contato)
 
 ## 🚀 Funcionalidades
 - **Carrossel interativo** com produtos em destaque
